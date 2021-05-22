@@ -1,0 +1,16 @@
+Minimum-spec Ship
+7
+BRS
+1
+CQT
+1
+GEN
+1
+LHP
+43
+SCB
+1
+SSC
+40
+SSL
+1
